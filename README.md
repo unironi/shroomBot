@@ -1,6 +1,6 @@
 # shroomBot
 
-What if one day you were taking a stroll in town square, and you suddenly find yourself next to a big mushroom bobbling beside you?
+What if one day you were taking a stroll in town square, and you suddenly found yourself next to a big mushroom bobbling beside you?
 
 The idea behind these mushroom bots is to integrate into public spaces and be fun to interact with as they move around on legs or wheels. Booping or touching them will make them light up or make sound effects. And hopefully, this will serve as mushroom propaganda since mushrooms are delicious.
 | Initial State | Touch | Reaction
